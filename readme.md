@@ -33,8 +33,8 @@
   - [x] Basic
   - [x] Shellcode
   - [x] Canary
-  - [ ] Return Oriented Programming
-  - [ ] Return to Libc
+  - [x] Return Oriented Programming
+  - [x] Return to Libc
   - [ ] 64bit Calling Convention
 
 ### Required
