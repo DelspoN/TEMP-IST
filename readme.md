@@ -40,6 +40,8 @@
 ### Required
 
 - [ ] Ubuntu 16.04 또는 Ubuntu 18.04
+- [ ] python 2.7
+- [ ] pwntools
 - [ ] gcc
 - [ ] 32bit 실행 환경
 - [ ] gdb 
@@ -47,6 +49,13 @@
 - [ ] IDA Pro
 
 ### Preparation
+
+`python` & `pwntools`
+
+```
+sudo apt install python2.7 python-pip
+pip install pwntools
+```
 
 `gcc` 설치
 
